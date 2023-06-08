@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <ID>1</ID>
+  <Nombre>Hasta el ultimo hombre</Nombre>
+  <Fecha_de_Visualizacion>2023-06-02 18:41:43</Fecha_de_Visualizacion>
+  <Duracion_de_Visualizacion>00:52:35</Duracion_de_Visualizacion>
+ </registro>
+ <registro>
+  <ID>3</ID>
+  <Nombre>Avengers</Nombre>
+  <Fecha_de_Visualizacion>2023-06-07 15:28:44</Fecha_de_Visualizacion>
+  <Duracion_de_Visualizacion>00:05:02</Duracion_de_Visualizacion>
+ </registro>
+ <registro>
+  <ID>4</ID>
+  <Nombre>Django</Nombre>
+  <Fecha_de_Visualizacion>2023-06-07 23:46:50</Fecha_de_Visualizacion>
+  <Duracion_de_Visualizacion>00:26:23</Duracion_de_Visualizacion>
+ </registro>
+</tabla>

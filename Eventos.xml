@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <ID>3</ID>
+  <Titulo>Ver Ender´s game</Titulo>
+  <Fecha>2023-06-15</Fecha>
+  <Hora>15:05:00</Hora>
+ </registro>
+ <registro>
+  <ID>4</ID>
+  <Titulo>Ver Rampage</Titulo>
+  <Fecha>2023-06-20</Fecha>
+  <Hora>11:30:00</Hora>
+ </registro>
+</tabla>
